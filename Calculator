@@ -45,5 +45,5 @@ import java.util.Scanner;
              default :
             System.out.print("Invalid Input!!!");
         }
-    }
-}
+    } //End of main
+} //End of class
