@@ -1,6 +1,6 @@
-package samsung;
+package college;
 import java.util.Scanner;
-public class Samsung {
+public class College {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in); 
         System.out.println("What college you want to go?: ");
