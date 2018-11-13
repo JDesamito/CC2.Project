@@ -31,5 +31,5 @@ public class GuessGuess {
          
 while(num1 != num);
          
-    }
-}
+    } //End of main
+} //End of class
