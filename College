@@ -142,8 +142,8 @@ public class Samsung {
         
        
         }
-    }
-}
+    } //End of main
+} //End of class
 
       
     
